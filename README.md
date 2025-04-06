@@ -58,8 +58,8 @@
 ---
 
 ### 📌 Pinned Projects
-[🔐 PassGuardian](https://github.com/ShoebKhan/passguardian)  
-[🎧 Moodify CLI](https://github.com/ShoebKhan/moodify)  
-[📃 Student Record System](https://github.com/ShoebKhan/moodify) 
+[🔐 PassGuardian](https://github.com/shoebkhan114/python/blob/main/passguardian.py)  
+[🎧 Moodify CLI](https://github.com/shoebkhan114/python/blob/main/moodify.py)  
+[📃 Student Record System](https://github.com/shoebkhan114/Student-Record/blob/main/student_portal_manu.c) 
 ---
 
