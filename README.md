@@ -55,7 +55,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShoebKhan&layout=compact&theme=vision-friendly-dark" width="48%" />
 
 </p>
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 
 
 ---
@@ -64,6 +64,6 @@
 [🔐 PassGuardian](https://github.com/shoebkhan114/python/blob/main/passguardian.py)  
 [🎧 Moodify CLI](https://github.com/shoebkhan114/python/blob/main/moodify.py)  
 [📃 Student Record System](https://github.com/shoebkhan114/Student-Record/blob/main/student_portal_manu.c) 
-[📃 Student Record System](https://github.com/shoebkhan114/random-no-game/blob/main/Random_number_game.c)
+
 ---
 
