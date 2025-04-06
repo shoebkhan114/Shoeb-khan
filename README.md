@@ -52,8 +52,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShoebKhan&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShoebKhan&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShoebKhan&layout=compact&theme=vision-friendly-dark" width="48%" />
+
 </p>
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 
 ---
 
