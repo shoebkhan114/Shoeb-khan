@@ -61,5 +61,6 @@
 [🔐 PassGuardian](https://github.com/shoebkhan114/python/blob/main/passguardian.py)  
 [🎧 Moodify CLI](https://github.com/shoebkhan114/python/blob/main/moodify.py)  
 [📃 Student Record System](https://github.com/shoebkhan114/Student-Record/blob/main/student_portal_manu.c) 
+[📃 Student Record System](https://github.com/shoebkhan114/random-no-game/blob/main/Random_number_game.c)
 ---
 
