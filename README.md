@@ -39,6 +39,7 @@
 ### 📫 How to Reach Me
 - 📧 Email: **shoebkhan6367@gmail.com**
 - 💼 LinkedIn: [linkedin.com/in/shoebkhan](https://www.linkedin.com/in/shoeb-khan-444932331?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 📷 Instagram:[shoeb_khan0114](https://www.instagram.com/shoeb_khan0114?igsh=MTlyM3lsYnhkOWhmYw==)
 - 🖥️ Portfolio (coming soon...)
 
 ---
